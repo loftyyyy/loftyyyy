@@ -33,7 +33,7 @@ I'm a second-year Computer Science student fueled by curiosity and a passion for
     * **Minimax Algorithm:** is implemented to help the computer opponent make intelligent decisions about its moves.
     * **Alpha-Beta Pruning:** is incorporated into the Minimax algorithm to make it more efficient, enabling the computer opponent to make decisions faster, especially in complex game situations.
       
-* **Project Name:** [MIDI-Machine]([https://github.com/loftyyyy/TicTacSwing](https://github.com/loftyyyy/MIDI-Machine)
+* **Project Name:** [MIDI-Machine](https://github.com/loftyyyy/TicTacSwing)
     ### Description
   This project empowers you to create your own beats and rhythms using a simple yet versatile interface. Select from various drum and percussion sounds, then click boxes on the grid to build your custom patterns. Control the tempo, play your masterpiece in real-time, and even save or load your creations to pick up where you left off. Let your inner musician loose!
   
