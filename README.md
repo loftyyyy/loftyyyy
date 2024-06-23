@@ -28,20 +28,20 @@ I'm a second-year Computer Science student fueled by curiosity and a passion for
   This project brings the classic game of Tic-Tac-Toe to life with an unbeatable AI opponent. Powered by the Minimax algorithm with alpha-beta pruning, the AI strategically analyzes every possible move to ensure optimal gameplay. Whether you're a beginner or a seasoned Tic-Tac-Toe enthusiast, you'll never win against this AI! The intuitive graphical interface, built using Java Swing, makes it easy to challenge the AI and track your (losing) streak.
   
     ### Technologies Used
-    * Java
-    * Java Swing
-    * Minimax Algorithm
-    * Alpha-Beta Pruning
+    * **Java:** The programming language at the heart of this project, providing the foundation for audio manipulation and user interface design.
+    * **Java Swing:** is used to create the visual interface of the game board, allowing players to interact with it.
+    * **Minimax Algorithm:** is implemented to help the computer opponent make intelligent decisions about its moves.
+    * **Alpha-Beta Pruning:** is incorporated into the Minimax algorithm to make it more efficient, enabling the computer opponent to make decisions faster, especially in complex game situations.
       
-* **Project Name:** [MIDI-Machine]([https://github.com/loftyyyy/TicTacSwing](https://github.com/loftyyyy/MIDI-Machine/)
+* **Project Name:** [MIDI-Machine]([https://github.com/loftyyyy/TicTacSwing](https://github.com/loftyyyy/MIDI-Machine)
     ### Description
   This project empowers you to create your own beats and rhythms using a simple yet versatile interface. Select from various drum and percussion sounds, then click boxes on the grid to build your custom patterns. Control the tempo, play your masterpiece in real-time, and even save or load your creations to pick up where you left off. Let your inner musician loose!
   
     ### Technologies Used
-    * Java: The programming language at the heart of this project, providing the foundation for audio manipulation and user interface design.
-    * Java MIDI API (javax.sound.midi): The core technology enabling interaction with MIDI devices and sequences, allowing you to generate and control musical notes and events.
-    * Java Swing: A GUI toolkit used to craft the interactive interface, featuring checkboxes for note selection, buttons for control, and labels for instrument names.
-    * Serialization (java.io.Serializable): This feature is used to save and load your rhythmic patterns, ensuring your musical ideas are never lost.
+    * **Java:** The programming language at the heart of this project, providing the foundation for audio manipulation and user interface design.
+    * **Java MIDI API (javax.sound.midi):** The core technology enabling interaction with MIDI devices and sequences, allowing you to generate and control musical notes and events.
+    * **Java Swing:** A GUI toolkit used to craft the interactive interface, featuring checkboxes for note selection, buttons for control, and labels for instrument names.
+    * **Serialization** (java.io.Serializable): This feature is used to save and load your rhythmic patterns, ensuring your musical ideas are never lost.
       
 ## Learning Journey
 
