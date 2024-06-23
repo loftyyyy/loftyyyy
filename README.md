@@ -22,7 +22,7 @@ I'm a second-year Computer Science student fueled by curiosity and a passion for
 
 ## Projects
 
-[List your projects here – even small ones are a great way to showcase your progress!]
+
 * **Project Name:** [Unbeatable Tic-Tac-Toe with Minimax Algorithm](https://github.com/loftyyyy/TicTacSwing)
     ### Description
   This project brings the classic game of Tic-Tac-Toe to life with an unbeatable AI opponent. Powered by the Minimax algorithm with alpha-beta pruning, the AI strategically analyzes every possible move to ensure optimal gameplay. Whether you're a beginner or a seasoned Tic-Tac-Toe enthusiast, you'll never win against this AI! The intuitive graphical interface, built using Java Swing, makes it easy to challenge the AI and track your (losing) streak.
@@ -32,7 +32,17 @@ I'm a second-year Computer Science student fueled by curiosity and a passion for
     * Java Swing
     * Minimax Algorithm
     * Alpha-Beta Pruning
-
+      
+* **Project Name:** [MIDI-Machine]([https://github.com/loftyyyy/TicTacSwing](https://github.com/loftyyyy/MIDI-Machine/)
+    ### Description
+  This project empowers you to create your own beats and rhythms using a simple yet versatile interface. Select from various drum and percussion sounds, then click boxes on the grid to build your custom patterns. Control the tempo, play your masterpiece in real-time, and even save or load your creations to pick up where you left off. Let your inner musician loose!
+  
+    ### Technologies Used
+    * Java: The programming language at the heart of this project, providing the foundation for audio manipulation and user interface design.
+    * Java MIDI API (javax.sound.midi): The core technology enabling interaction with MIDI devices and sequences, allowing you to generate and control musical notes and events.
+    * Java Swing: A GUI toolkit used to craft the interactive interface, featuring checkboxes for note selection, buttons for control, and labels for instrument names.
+    * Serialization (java.io.Serializable): This feature is used to save and load your rhythmic patterns, ensuring your musical ideas are never lost.
+      
 ## Learning Journey
 
 * Actively working through Java tutorials and courses.
@@ -41,13 +51,13 @@ I'm a second-year Computer Science student fueled by curiosity and a passion for
 
 ## Let's Connect!
 
-[Add your social links, portfolio website, or other ways to contact you.]
+[My website (in the future)]
 
-[Optional:] Feel free to ask questions or offer suggestions. I'm always open to feedback and learning new things! 
+Feel free to ask questions or offer suggestions. I'm always open to feedback and learning new things! 
 
 Thanks for stopping by! 
 
-
+lofty08.business@gmail.com
 
 <!---
 loftyyyy/loftyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
