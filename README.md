@@ -15,7 +15,7 @@ I'm a second-year Computer Science student fueled by curiosity and a passion for
 
 **Languages:** Java
 
-**Frameworks/Libraries:** Spring Boot
+**Frameworks/Libraries:** Spring Boot, Thymeleaf
 
 **Tools:**  Git, IntelliJ IDEA, VS Code, Vim, Matlab
 
