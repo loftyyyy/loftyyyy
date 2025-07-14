@@ -67,6 +67,19 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=loftyyyy.loftyyyy&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loftyyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loftyyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=loftyyyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=loftyyyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -81,14 +94,50 @@
 
 ###
 
-<div align="left">
-  <a href="lofty08.business@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">Gib Project Ideas</p>
+# 🌌 Hello there! I'm Rho 👋
+
+Welcome to my GitHub profile! I'm a **Computer Science student** passionate about building scalable backend systems and exploring the mysteries of the universe. My journey bridges the world of **software engineering** and the realms of **physics and astrophysics**.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Currently studying **Computer Science** at the University of Mindanao.
+- 🧠 Actively learning **Spring Boot**, Java, and modern backend practices.
+- 🧪 Practicing **integration testing** to ensure robust and reliable applications.
+- 🧮 Lover of all things **mathematics** — from linear algebra to calculus.
+- 🌠 Enthusiast of **physics** and **astrophysics** — fascinated by how the universe works.
+- 🔭 Passionate about space science, black holes, relativity, and cosmology.
+- 🛠️ I enjoy solving problems through **code**, **logic**, and **research**.
+- ✨ I believe in continuous learning and open-source collaboration.
+
+---
+
+## 📚 Current Goals
+
+- ✅ Master **Spring Boot** and build production-level applications.
+- 🧪 Write better **integration and unit tests** to improve application reliability.
+- 📘 Contribute to open-source Java/Spring projects.
+- 🌌 Study **general relativity** and explore how math models space-time.
+- 🧠 Build a project that bridges **computer science and physics**.
+- ✍️ Share what I learn through code, writing, and community involvement.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [www.linkedin.com/in/loftyyyy]
+- 🌐 Portfolio (Coming Soon!)
+- 📧 Email: [lofty08.business@gmail.com]
+
+---
+
+> “Somewhere, something incredible is waiting to be known.” – Carl Sagan
+
+Thanks for visiting! Don’t forget to check out some of my pinned repositories 🚀
 
 ###
