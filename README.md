@@ -94,7 +94,11 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
 
