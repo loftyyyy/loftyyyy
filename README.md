@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">🌌 Hello there! I'm Rho 👋</h1>
+
+Welcome to my GitHub profile! I'm a **Computer Science student** passionate about building scalable backend systems and exploring the mysteries of the universe.
 
 ###
 
@@ -102,9 +104,6 @@
 
 ###
 
-# 🌌 Hello there! I'm Rho 👋
-
-Welcome to my GitHub profile! I'm a **Computer Science student** passionate about building scalable backend systems and exploring the mysteries of the universe. My journey bridges the world of **software engineering** and the realms of **physics and astrophysics**.
 
 ---
 
