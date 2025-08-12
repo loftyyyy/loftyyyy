@@ -1,6 +1,6 @@
 <h1 align="center">🌌 Hello there! I'm Rho 👋</h1>
 
-Welcome to my GitHub profile! I'm a **Computer Science student** passionate about building scalable backend systems and exploring the mysteries of the universe.
+Welcome to my GitHub profile! I'm a **Computer Science student** passionate about building scalable backend systems.
 
 ###
 
@@ -112,9 +112,6 @@ Welcome to my GitHub profile! I'm a **Computer Science student** passionate abou
 - 🎓 Currently studying **Computer Science** at the University of Mindanao.
 - 🧠 Actively learning **Spring Boot**, Java, and modern backend practices.
 - 🧪 Practicing **integration testing** to ensure robust and reliable applications.
-- 🧮 Lover of all things **mathematics** — from linear algebra to calculus.
-- 🌠 Enthusiast of **physics** and **astrophysics** — fascinated by how the universe works.
-- 🔭 Passionate about space science, black holes, relativity, and cosmology.
 - 🛠️ I enjoy solving problems through **code**, **logic**, and **research**.
 - ✨ I believe in continuous learning and open-source collaboration.
 
@@ -125,7 +122,6 @@ Welcome to my GitHub profile! I'm a **Computer Science student** passionate abou
 - ✅ Master **Spring Boot** and build production-level applications.
 - 🧪 Write better **integration and unit tests** to improve application reliability.
 - 📘 Contribute to open-source Java/Spring projects.
-- 🌌 Study **general relativity** and explore how math models space-time.
 - 🧠 Build a project that bridges **computer science and physics**.
 - ✍️ Share what I learn through code, writing, and community involvement.
 
