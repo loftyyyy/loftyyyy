@@ -122,7 +122,6 @@ Welcome to my GitHub profile! I'm a **Computer Science student** passionate abou
 - ✅ Master **Spring Boot** and build production-level applications.
 - 🧪 Write better **integration and unit tests** to improve application reliability.
 - 📘 Contribute to open-source Java/Spring projects.
-- 🧠 Build a project that bridges **computer science and physics**.
 - ✍️ Share what I learn through code, writing, and community involvement.
 
 ---
