@@ -2,7 +2,7 @@
 
 ### A backend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loftyyyy" alt="loftyyyy" /> </p>
+
 
 I'm looking to collaborate on **open source backend projects**, currently learning the security side of spring boot.
 
@@ -23,7 +23,7 @@ I'm looking to collaborate on **open source backend projects**, currently learni
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loftyyyy" alt="loftyyyy" /> </p>
 
 <!-- <picture> -->
 <!--    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg?palette=github-dark">  -->
