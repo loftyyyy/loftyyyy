@@ -2,7 +2,7 @@
 
 ### A backend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loftyyyy&label=Profile views&color=0e75b6&style=flat" alt="loftyyyy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loftyyyy" alt="loftyyyy" /> </p>
 
 I'm looking to collaborate on **open source backend projects**, currently learning the security side of spring boot.
 
