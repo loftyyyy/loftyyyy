@@ -9,7 +9,7 @@
 
 
 
-I'm looking to collaborate on **open source backend projects**, currently learning the security side of spring boot.
+I'm looking to collaborate on **open source backend projects**, currently a cyber security intern for a local company.
 
 
 
