@@ -11,7 +11,10 @@
 
 I'm looking to collaborate on **open source backend projects**, currently a cyber security intern for a local company.
 
-
+Books Read:
+- Java Head First 3rd Edition
+- Spring Security in Action 2nd Edition
+- Designing Data-Intensive Application
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/pacman-contribution-graph-dark.svg">
