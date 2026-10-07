@@ -9,7 +9,7 @@
 
 
 
-I'm looking to collaborate on **open source backend projects**, currently a cyber security intern for a local company.
+I'm looking to collaborate on **open source backend projects**, currently learning Spring AI.
 
 Books Read:
 - Java Head First 3rd Edition
