@@ -23,5 +23,4 @@ Books Read:
 <!--    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg"> -->
 <!--  <img src="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/snake.svg" alt="Snake animation" /> -->
 <!-- </picture>  -->
-
 ###
