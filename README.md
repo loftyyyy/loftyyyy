@@ -9,6 +9,7 @@ Books Read:
 - Spring Security in Action 2nd Edition
 - Designing Data-Intensive Application
 - Refactoring (Martin Fowler)
+- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loftyyyy/loftyyyy/output/pacman-contribution-graph-dark.svg">
